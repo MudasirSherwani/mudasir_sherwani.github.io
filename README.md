@@ -4,6 +4,8 @@
 > In the project different sections are working like as Project Area and Contact Us Form 
 > This project has done after getting templete from FIGMA templete #4.
 
+- Click This Link to:[View Portfolio Live](https://mudasirsherwani.github.io/mudasir_sherwani.github.io)
+
 ![Portfolio in Mobile View](/images/Portfolio_SS_1.PNG)
 ![Portfolio in Mobile View](/images/Portfolio_SS_1234.PNG)
 ![Portfolio in Mobile View](/images/desktop-view-ss.PNG)
@@ -62,7 +64,8 @@ Linters
 ### Run tests
 
 ### Deployment
-- [Linter](https://github.com/microverseinc/linters-config/tree/master/html-css)
+Project is deployed on github pages, You can access portfolio project via below mentioned url
+https://mudasirsherwani.github.io/mudasir_sherwani.github.io
 
 
 ## Authors
